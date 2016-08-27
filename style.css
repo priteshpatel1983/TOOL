@@ -6,7 +6,7 @@
             padding: 0;
             border: 0;
             font-family:Arial,Verdana,Helvetica,sans-serif;
-	        font-size:10pt;
+	        font-size:50pt;
 	
         }
 
@@ -27,11 +27,7 @@ a:hover{text-decoration:underline}
 	clear: left;
 	float: left;
 }
-/*#header .logo,#header {
-	float:left;
-	margin-top:0px;
-	background-color: #FFF;
-}*/
+
 #header .logo,#header {
 	float:left;
 	margin-top:0px;
